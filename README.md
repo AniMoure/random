@@ -5,6 +5,6 @@
 
 # Contributeurs
 
-	Ana Barbalat
+	Anisoara Barbalat
 	Jérémie Edery
 	Rémi Boivin

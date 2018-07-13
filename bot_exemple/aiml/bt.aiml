@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- DEFAULT: Categories par defaut -->
+<aiml version="1.0">
+	<category>
+		<pattern>*</pattern>
+		<template>Bonjour, Comment puis-je t'aider?</template>
+	</category>
+	<category>
+		<pattern>Parle moi du THP</pattern>
+		<template>THP Code est une formation</template>
+	</category>
+	<!-- 1 -->
+	<category>
+		<pattern>A qui s'adresse la formation THP Code?</pattern>
+		<template>A toute personne interessee par le monde du numerique. Pendant la formation, vous allez travailler avec du HTML/CSS, du Ruby, du Ruby on Rails et du JavaScript.</template>
+	</category>
+	<!-- 2 -->
+	<category>
+		<pattern>Qu'est-ce que le THP Code?</pattern>
+		<template>The Hacking Project (THP) Code est une formation qui se deroule de 9h a 20h pendant 11 semaines. Chez nous, il n'y a pas de professeurs, pas de locaux.</template>
+	</category>
+	<!-- 3 -->
+	<category>
+		<pattern>Quels sont les prerequis?</pattern>
+		<template>Pour pouvoir faire la formation et tester votre capacite de coding, on a mis en place une semaine 0 qui sert a vous familiariser avec le code et le terminal. </template>
+	</category>
+	<!-- 4 -->
+	<category>
+		<pattern>Combien coute la formation?</pattern>
+		<template>Nous avons mis en place un systeme de caution, qui nous permet de garder que les personnes motivees pour la formation.</template>
+	</category>
+	<!-- 5 -->
+	<category>
+		<pattern>Systeme de caution</pattern>
+		<template>Lors de l'inscription a la formation, nous prenons 314,15€ que nous rendrons quand vous l'aurez finie. Jusqu'a present, cela a bien fonctionne puisque cela a divise notre taux d'abandon par 2.</template>
+	</category>
+	<!-- 6 -->
+	<category>
+		<pattern>Comment sont formes les groupes?</pattern>
+		<template>Une fois la semaine 0 validee et la caution payee, vous recevrez un mail ou vous sera attribue votre groupe.</template>
+	</category>
+	<!-- 7 -->
+	<category>
+		<pattern>Comment se retrouver?</pattern>
+		<template>Un moussaillon a mis en place une plateforme pour chercher des espaces de travail. Pour y acceder: http://cowrkit.herokuapp.com</template>
+	</category>
+	<!-- 8 -->
+	<category>
+		<pattern>Combien de temps par jour faut-il consacrer a la formation?</pattern>
+		<template>La formation etant intense, le volume horaire conseille est de prevoir de 9h du matin jusqu'a 20h le soir.</template>
+	</category>
+	<!-- 9 -->
+	<category>
+		<pattern>Quelle est la structure d'une journee type au THP?</pattern>
+		<template>De 9h a 12h vous avez des sessions de corrections. Une fois les corrections finies, vous attaquez le cote theorique du jour. Par la suite, vous mettez en pratique les competences acquises aucours des differentes journees.</template>
+	</category>
+	<!-- 10 -->
+	<category>
+		<pattern>Qu'est ce que le peer-learning?</pattern>
+		<template>"Les eleves apprennent beaucoup en expliquant leurs idees aux autres et en participant a des activites dans lesquelles ils peuvent apprendre de leurs pairs" - David Boud
+	Cette phrase exprime le concept d'entre-aide sur lequel est base la formation.</template>
+	</category>
+</aiml>

@@ -3,7 +3,7 @@
 require 'rubygems'
 require 'programr'
 
-brains = Dir.glob("aiml/*.aiml")
+brains = Dir.glob("aiml/bt.aiml")
 
 robot = ProgramR::Facade.new
 robot.learn(brains)
